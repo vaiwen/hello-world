@@ -1,2 +1,2 @@
 # hello-world
-i created for learn hte Github
+i created for learn the Github
