@@ -1,2 +1,3 @@
 # hello-world
-i created for learn hte Github
+I created for learn the Github
+I am doing some changes
